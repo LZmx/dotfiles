@@ -1,0 +1,68 @@
+[user]
+    name = 
+    email = 
+[alias]
+    sts = status -s
+    st = status
+    cm = !git commit -m
+    ck = checkout
+    vara = branch -a
+    fet = fetch -p --all
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	tlg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	tlog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    ls = log --pretty=format:%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn] --decorate
+    ll = log --pretty=format:%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn] --decorate --numstat
+    lnc = log --pretty=format:%h\\ %s\\ [%cn]
+    lds = log --pretty=format:%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn] --decorate --date=short
+    ld = log --pretty=format:%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn] --decorate --date=relative
+    le = log --oneline --decorate
+    dr = "!f() { git diff $1^..$1; }; f"
+    lc = "!f() { git ll $1^..$1; }; f"
+    diffr = "!f() { git diff $1^..$1; }; f"
+    diff = diff --word-diff
+    dc = diff --cached
+    cp = cherry-pick
+    r = reset
+    r1 = reset HEAD^
+    r2 = reset HEAD^^
+    rh = reset --hard
+    rh1 = reset HEAD^ --hard
+    rh2 = reset HEAD^^ --hard
+    rb = svn rebase
+    ts = stash
+    sl = stash list
+    sa = stash apply
+    ss = stash save
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+[push]
+	default = simple
+[core]
+    filemode = false
+    excludesfile = /Users/angel/.gitignore_global
+[difftool "sourcetree"]
+    cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+    path =
+[mergetool "sourcetree"]
+    cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+    trustExitCode = true
+[gc]
+    autoDetach = false
+[http]
+    proxy = 
+[https]
+    proxy = 
+[commit]
+    template = /Users/angel/.stCommitMsg
+[pager]
+	diff = diff-so-fancy | less --tabs=1,5 -RFX
+	show = diff-so-fancy | less --tabs=1,5 -RFX
+[url "git@bitbucket.org:"]
+	insteadOf = https://bitbucket.org/
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[help]
+	autocorrect = 1

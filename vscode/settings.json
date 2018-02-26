@@ -1,0 +1,31 @@
+{
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "window.zoomLevel": -2,
+    "editor.minimap.enabled": true,
+    "editor.minimap.side": "right",
+    "javascript.format.enable": true,
+    "editor.fontSize": 19,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Bimbo Theme",
+    "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": true,
+      "suppressUpdateNotice": false,
+      "suppressWelcomeNotice": false
+    },
+    "editor.formatOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.useTabs": false,
+    "prettier.printWidth": 100,
+    "prettier.eslintIntegration": true,
+    "prettier.tabWidth": 2,
+    "prettier.jsxBracketSameLine": true
+  }

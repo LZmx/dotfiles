@@ -1,0 +1,7 @@
+repos:~/Documents/repos
+gulptasks:~/Documents/repos/codeduku/gulptasks
+rapp:~/Documents/repos/react-apps
+rnapp:~/Documents/repos/react-native-apps
+codeduku:~/Documents/repos/codeduku
+nginx:/usr/local/etc/nginx
+conf:/usr/local/etc/nginx/conf

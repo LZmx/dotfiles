@@ -1,0 +1,19 @@
+StartChar: Ebreve
+Encoding: 276 276 185
+GlifName: E_breve
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 120<256 896> 648 120<256 768> 1288 120<256 896> 1520 120<371.067 652.933>
+VStem: 128 128<120 648 768 1288> 172 128<1704.51 1792> 724 128<1704.51 1792>
+LayerCount: 5
+Back
+Fore
+Refer: 298 774 N 1 0 0 1 0 256 2
+Refer: 33 69 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "'ss14' Style Set 14 lookup 13 subtable" Ebreve.sq
+EndChar

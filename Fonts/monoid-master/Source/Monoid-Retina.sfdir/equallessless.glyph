@@ -1,0 +1,42 @@
+StartChar: equallessless
+Encoding: 1114256 -1 762
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 260 120<-1728 -544> 772 120<-1728 -544>
+LayerCount: 5
+Back
+Fore
+SplineSet
+197 571 m 1
+ 708 95 l 1
+ 622 5 l 1
+ 64 531 l 1
+ 64 621 l 1
+ 622 1147 l 1
+ 708 1057 l 1
+ 197 581 l 1
+ 197 571 l 1
+-571 571 m 1
+ -60 95 l 1
+ -146 5 l 1
+ -417 260 l 1
+ -1728 260 l 1
+ -1728 380 l 1
+ -544 380 l 1
+ -704 531 l 1
+ -704 621 l 1
+ -544 772 l 1
+ -1728 772 l 1
+ -1728 892 l 1
+ -417 892 l 1
+ -146 1147 l 1
+ -60 1057 l 1
+ -571 581 l 1
+ -571 571 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

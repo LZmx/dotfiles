@@ -1,0 +1,19 @@
+StartChar: uni0202
+Encoding: 514 514 440
+GlifName: uni0202
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 21G<39 179.5 844.5 985> 388 120<250 774> 1388 20G<325 699> 1688 120<371.067 652.933>
+VStem: 39 135<0 253.02> 172 128<1536 1623.49> 724 128<1536 1623.49> 850 135<0 253.803>
+LayerCount: 5
+Back
+Fore
+Refer: 664 785 N 1 0 0 1 0 256 2
+Refer: 29 65 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "'ss14' Style Set 14 lookup 13 subtable" uni0202.sq
+EndChar

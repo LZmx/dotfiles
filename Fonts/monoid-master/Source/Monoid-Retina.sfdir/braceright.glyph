@@ -1,0 +1,36 @@
+StartChar: braceright
+Encoding: 125 125 93
+GlifName: braceright
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -144 120<192 356.443> 643 120<661.845 832> 1430 120<192 356.443>
+VStem: 448 128<58.6177 562.643 843.357 1347.38>
+CounterMasks: 1 e0
+LayerCount: 5
+Back
+Fore
+SplineSet
+607 698 m 1
+ 607 708 l 1
+ 490 752 448 823 448 970 c 2
+ 448 1223 l 2
+ 448 1383 351 1430 192 1430 c 1
+ 192 1550 l 1
+ 419 1550 576 1454 576 1223 c 2
+ 576 970 l 2
+ 576 810 673 763 832 763 c 1
+ 832 643 l 1
+ 672 643 576 596 576 436 c 2
+ 576 183 l 2
+ 576 -48 419 -144 192 -144 c 1
+ 192 -24 l 1
+ 352 -24 448 23 448 183 c 2
+ 448 436 l 2
+ 448 583 490 654 607 698 c 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

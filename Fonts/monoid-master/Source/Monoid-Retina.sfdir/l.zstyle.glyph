@@ -1,0 +1,30 @@
+StartChar: l.zstyle
+Encoding: 1114148 -1 650
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<613.032 830.027> 1288 120<192 448>
+VStem: 448 128<141.858 1288>
+LayerCount: 5
+Back
+Fore
+SplineSet
+832 -2 m 1
+ 789 -9 744 -16 694 -16 c 0
+ 622 -16 563 9 521 52 c 0
+ 448 128 448 218 448 279 c 2
+ 448 1288 l 1
+ 192 1288 l 1
+ 192 1408 l 1
+ 576 1408 l 1
+ 576 279 l 2
+ 576 232 576 186 604 148 c 0
+ 624 121 655 104 704 104 c 0
+ 741 104 791 113 832 121 c 1
+ 832 -2 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

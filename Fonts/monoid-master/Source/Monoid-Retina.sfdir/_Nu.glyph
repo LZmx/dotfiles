@@ -1,0 +1,31 @@
+StartChar: Nu
+Encoding: 925 925 477
+GlifName: N_u
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 21G<128 256 759.099 896> 1388 20G<128 263.918 768 896>
+VStem: 128 128<0 1128> 768 128<280 1408>
+LayerCount: 5
+Back
+Fore
+SplineSet
+256 0 m 1
+ 128 0 l 1
+ 128 1408 l 1
+ 255 1408 l 1
+ 758 280 l 1
+ 768 280 l 1
+ 768 1408 l 1
+ 896 1408 l 1
+ 896 0 l 1
+ 768 0 l 1
+ 266 1128 l 1
+ 256 1128 l 1
+ 256 0 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

@@ -1,0 +1,31 @@
+StartChar: uni0237
+Encoding: 567 567 292
+GlifName: uni0237
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -400 120<194.703 500.522> 904 120<320 576>
+VStem: 576 128<-203.52 904>
+LayerCount: 5
+Back
+Fore
+SplineSet
+192 -265 m 1
+ 247 -273 316 -280 384 -280 c 0
+ 451 -280 501 -256 533 -218 c 0
+ 576 -166 576 -102 576 -14 c 2
+ 576 904 l 1
+ 320 904 l 1
+ 320 1024 l 1
+ 704 1024 l 1
+ 704 -24 l 2
+ 704 -115 704 -210 636 -292 c 0
+ 584 -355 500 -400 394 -400 c 0
+ 319 -400 252 -394 192 -385 c 1
+ 192 -265 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

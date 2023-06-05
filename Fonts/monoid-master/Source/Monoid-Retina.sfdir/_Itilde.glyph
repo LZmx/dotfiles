@@ -1,0 +1,20 @@
+StartChar: Itilde
+Encoding: 296 296 224
+GlifName: I_tilde
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 120<192 448 576 832> 1288 120<192 448 576 832> 1540 120<573.402 687.423> 1668 120<336.597 450.598>
+VStem: 189 128<1561 1655.42> 448 128<120 1288> 707 128<1672.67 1767>
+CounterMasks: 1 0e
+LayerCount: 5
+Back
+Fore
+Refer: 296 771 N 1 0 0 1 0 256 2
+Refer: 37 73 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "'ss14' Style Set 14 lookup 13 subtable" Itilde.sq
+EndChar

@@ -1,0 +1,27 @@
+StartChar: Delta
+Encoding: 8710 8710 595
+GlifName: D_elta
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 120<187 837> 1289 119<492.658 531.334>
+LayerCount: 5
+Back
+Fore
+SplineSet
+39 0 m 1
+ 92 496 203 971 447 1408 c 1
+ 577 1408 l 1
+ 821 971 932 496 985 0 c 1
+ 39 0 l 1
+837 120 m 1
+ 790 557 671 958 517 1289 c 1
+ 507 1289 l 1
+ 353 958 231 557 187 120 c 1
+ 837 120 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

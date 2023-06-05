@@ -1,6 +1,6 @@
 [user]
-    name = 
-    email = 
+	name = LZmx
+	email = angel@codeduku.com
 [alias]
     sts = status -s
     st = status
@@ -8,9 +8,10 @@
     ck = checkout
     vara = branch -a
     fet = fetch -p --all
-    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-	tlg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-	tlog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commil
+    tlg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    tlog = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    lt = log --graph --oneline --all
     ls = log --pretty=format:%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn] --decorate
     ll = log --pretty=format:%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn] --decorate --numstat
     lnc = log --pretty=format:%h\\ %s\\ [%cn]
@@ -35,34 +36,28 @@
     sa = stash apply
     ss = stash save
 [color]
-	branch = auto
-	diff = auto
-	status = auto
+    branch = auto
+    diff = auto
+    status = auto
 [push]
-	default = simple
+    default = simple
 [core]
-    filemode = false
-    excludesfile = /Users/angel/.gitignore_global
-[difftool "sourcetree"]
-    cmd = opendiff \"$LOCAL\" \"$REMOTE\"
-    path =
-[mergetool "sourcetree"]
-    cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
-    trustExitCode = true
+	excludesfile = /Users/lzmx/.gitignore_global
 [gc]
     autoDetach = false
-[http]
-    proxy = 
-[https]
-    proxy = 
-[commit]
-    template = /Users/angel/.stCommitMsg
+[url "https://"]
+    insteadOf = git://
 [pager]
-	diff = diff-so-fancy | less --tabs=1,5 -RFX
-	show = diff-so-fancy | less --tabs=1,5 -RFX
-[url "git@bitbucket.org:"]
-	insteadOf = https://bitbucket.org/
-[url "git@github.com:"]
-	insteadOf = https://github.com/
+    diff = diff-so-fancy | less --tabs=1,5 -RFX
+    show = diff-so-fancy | less --tabs=1,5 -RFX
 [help]
-	autocorrect = 1
+    autocorrect = 1
+[filesystem "Oracle Corporation|1.8.0_231|/dev/disk1s5"]
+	timestampResolution = 1001 milliseconds
+	minRacyThreshold = 0 nanoseconds
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path = 
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true

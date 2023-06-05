@@ -1,0 +1,18 @@
+StartChar: ocircumflex
+Encoding: 244 244 151
+GlifName: ocircumflex
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<395.685 628.315> 920 120<395.685 628.315> 1152 256
+VStem: 160 128<233.791 790.209> 736 128<233.791 790.209>
+LayerCount: 5
+Back
+Fore
+Refer: 295 770 N 1 0 0 1 0 -128 2
+Refer: 15 111 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

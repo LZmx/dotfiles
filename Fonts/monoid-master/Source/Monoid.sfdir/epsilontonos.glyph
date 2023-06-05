@@ -1,0 +1,18 @@
+StartChar: epsilontonos
+Encoding: 941 941 541
+GlifName: epsilontonos
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<451.524 898> 512 120<448.375 770> 920 120<440.344 873.479> 1131 307
+VStem: 226 128<197.441 420.945 706.629 843.639> 504 281
+LayerCount: 5
+Back
+Fore
+Refer: 555 900 N 1 0 0 1 0 0 2
+Refer: 485 949 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

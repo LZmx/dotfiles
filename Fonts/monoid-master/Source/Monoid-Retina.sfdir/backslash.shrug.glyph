@@ -1,0 +1,20 @@
+StartChar: backslash.shrug
+Encoding: 1114262 -1 768
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 5
+Back
+Fore
+SplineSet
+855 -160 m 1
+ -61 1376 l 1
+ 45 1440 l 1
+ 961 -96 l 1
+ 855 -160 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

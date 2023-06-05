@@ -1,0 +1,51 @@
+StartChar: equal
+Encoding: 61 61 83
+GlifName: equal
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 260 120<256 896> 772 120<256 896>
+LayerCount: 5
+Back
+Fore
+SplineSet
+256 380 m 5
+ 896 380 l 5
+ 896 260 l 5
+ 256 260 l 5
+ 256 380 l 5
+256 892 m 5
+ 896 892 l 5
+ 896 772 l 5
+ 256 772 l 5
+ 256 892 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "Single Substitution lookup 101 subtable" equal.wide
+Substitution2: "Single Substitution lookup 63 subtable" equalcompare
+Substitution2: "Single Substitution lookup 62 subtable" liga20
+Substitution2: "Single Substitution lookup 60 subtable" liga19
+Substitution2: "Single Substitution lookup 59 subtable" greaterequalliga
+Substitution2: "Single Substitution lookup 55 subtable" liga18
+Substitution2: "Single Substitution lookup 54 subtable" greatergreaterequal
+Substitution2: "Single Substitution lookup 51 subtable" lessequalliga
+Substitution2: "Single Substitution lookup 49 subtable" equal.after
+Substitution2: "Single Substitution lookup 48 subtable" equalcolonequal
+Substitution2: "Single Substitution lookup 46 subtable" liga15
+Substitution2: "Single Substitution lookup 45 subtable" leftarrowequallong
+Substitution2: "Single Substitution lookup 44 subtable" liga14
+Substitution2: "Single Substitution lookup 41 subtable" liga13
+Substitution2: "Single Substitution lookup 40 subtable" liga13
+Substitution2: "Single Substitution lookup 38 subtable" liga12
+Substitution2: "Single Substitution lookup 37 subtable" liga12
+Substitution2: "Single Substitution lookup 34 subtable" liga11
+Substitution2: "Single Substitution lookup 32 subtable" equaltypeliga
+Substitution2: "Single Substitution lookup 31 subtable" liga10
+Substitution2: "Single Substitution lookup 30 subtable" liga10
+Substitution2: "Single Substitution lookup 29 subtable" notequalliga
+Substitution2: "Single Substitution lookup 27 subtable" notequaltypeliga
+Substitution2: "Single Substitution lookup 26 subtable" liga8
+EndChar

@@ -1,0 +1,18 @@
+StartChar: uring
+Encoding: 367 367 204
+GlifName: uring
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<463.245 663.827> 0 21G<768 896> 1004 20G<256 384 768 896> 1052 100<491.86 660.14> 1408 100<491.86 660.14>
+VStem: 256 128<182.745 1024> 348 108<1185.29 1374.71> 696 108<1185.29 1374.71> 768 128<0 112 180.901 1024>
+LayerCount: 5
+Back
+Fore
+Refer: 301 778 S 1 0 0 1 0 0 2
+Refer: 21 117 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

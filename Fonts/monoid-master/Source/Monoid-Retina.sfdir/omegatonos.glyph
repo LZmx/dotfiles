@@ -1,0 +1,18 @@
+StartChar: omegatonos
+Encoding: 974 974 546
+GlifName: omegatonos
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<231.107 410.153 613.847 792.893> 1004 20G<64 192 832 960> 1131 307
+VStem: 64 128<142.71 1024> 440 281 448 128<141.549 768> 832 128<142.71 1024>
+LayerCount: 5
+Back
+Fore
+Refer: 555 900 N 1 0 0 1 0 0 2
+Refer: 516 969 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

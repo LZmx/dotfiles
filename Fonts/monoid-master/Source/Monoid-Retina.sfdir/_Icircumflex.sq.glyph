@@ -1,0 +1,38 @@
+StartChar: Icircumflex.sq
+Encoding: 1114178 -1 683
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 120<192 448 576 832> 1160 120<192 448 576 832> 1408 21G<136 320.585 703.415 888>
+VStem: 448 128<120 1160>
+LayerCount: 5
+Back
+Fore
+SplineSet
+832 1280 m 5
+ 832 1160 l 5
+ 576 1160 l 5
+ 576 120 l 1
+ 832 120 l 1
+ 832 0 l 1
+ 192 0 l 1
+ 192 120 l 1
+ 448 120 l 1
+ 448 1160 l 5
+ 192 1160 l 5
+ 192 1280 l 5
+ 832 1280 l 5
+433 1664 m 1
+ 591 1664 l 1
+ 888 1408 l 1
+ 730 1408 l 1
+ 512 1572 l 1
+ 294 1408 l 1
+ 136 1408 l 1
+ 433 1664 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

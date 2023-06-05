@@ -1,0 +1,86 @@
+StartChar: y
+Encoding: 121 121 24
+GlifName: y
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -272 120<192 374.125> 1004 20G<140 300.5 722 885>
+VStem: 140 131<895.642 1024>
+AnchorPoint: "top" 512 1024 basechar 0
+LayerCount: 5
+Back
+Fore
+SplineSet
+541 240 m 1
+ 625 498 690 757 754 1024 c 1
+ 885 1024 l 1
+ 805 698 743 431 612 55 c 0
+ 576 -48 543 -143 482 -193 c 0
+ 427 -239 346 -272 192 -272 c 1
+ 192 -152 l 1
+ 274 -152 353 -138 388 -111 c 0
+ 436 -75 456 -12 505 128 c 1
+ 453 128 l 1
+ 296 413 209 720 140 1024 c 1
+ 271 1024 l 1
+ 330 754 406 486 531 240 c 1
+ 541 240 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+208 1348 m 5
+ 263 1058 l 6
+ 335.838882593 673.940437239 433.140582261 290.499180766 616 -55 c 5
+ 736.339381417 307.890715375 817.760271347 682.372339827 889 1058 c 6
+ 944 1348 l 1029
+  Spiro
+    208 1348 {
+    263 1058 ]
+    616 -55 v
+    889 1058 [
+    944 1348 o
+    0 0 z
+  EndSpiro
+EndSplineSet
+Layer: 3
+SplineSet
+208 1348 m 1
+ 263 1058 l 2
+ 334.814703274 679.340655462 426.73622927 301.651207423 591 -47 c 1
+ 94 -320 l 1
+ 146.874338255 -333.443284472 201.453564664 -339.999653393 256.012087682 -340.000000077 c 0
+ 310.192249183 -340.000000077 364.760412467 -335.370425884 417 -321 c 0
+ 444.486920469 -313.43870842 471.255278197 -302.186668012 494 -285 c 0
+ 520.510949537 -264.967445093 540.492424169 -237.387902158 556 -208 c 0
+ 581.59288196 -159.499762491 598.857946845 -107.090485302 616 -55 c 0
+ 735.489430136 308.099002669 821.533801453 681.746200409 889 1058 c 2
+ 941 1348 l 1025
+  Spiro
+    208 1348 {
+    263 1058 ]
+    591 -47 v
+    94 -320 v
+    256 -340 o
+    417 -321 o
+    494 -285 o
+    556 -208 o
+    616 -55 o
+    889 1058 [
+    941 1348 o
+    0 0 z
+  EndSpiro
+EndSplineSet
+Layer: 4
+Substitution2: "'ss11' Style Set 11 lookup 10 subtable" y.long
+Position2: "Single Positioning lookup 23 subtable" dx=-128 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 22 subtable" dx=-64 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 21 subtable" dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 14 subtable" dx=-64 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 11 subtable" dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 9 subtable" dx=-128 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 7 subtable" dx=128 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=64 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 5 subtable" dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=128 dy=0 dh=0 dv=0
+EndChar

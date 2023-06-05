@@ -1,0 +1,47 @@
+StartChar: uni0414
+Encoding: 1044 1044 323
+GlifName: uni0414
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -256 376<-64 51.0568 832 960> 0 120<176 704> 1288 120<320 704>
+VStem: -64 128<-256 0> 192 128<1034.81 1288> 704 128<120 1288> 832 128<-256 0>
+LayerCount: 5
+Back
+SplineSet
+320 1358 m 1
+ 320 1314 l 2
+ 320 893.609664181 297.333573636 469.923889573 188 64 c 1024
+  Spiro
+    320 1358 {
+    320 1314 ]
+    188 64 [
+    0 0 z
+  EndSpiro
+EndSplineSet
+Fore
+SplineSet
+176 120 m 1x7c
+ 704 120 l 1
+ 704 1288 l 1
+ 320 1288 l 1
+ 319 898 292 503 176 120 c 1x7c
+45 120 m 1xba
+ 176 538 192 958 192 1408 c 1
+ 832 1408 l 1xba
+ 832 120 l 1xbc
+ 960 120 l 1
+ 960 -256 l 1
+ 832 -256 l 1xba
+ 832 0 l 1
+ 64 0 l 1x7a
+ 64 -256 l 1
+ -64 -256 l 1
+ -64 120 l 1
+ 45 120 l 1xba
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

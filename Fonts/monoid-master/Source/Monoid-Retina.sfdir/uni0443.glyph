@@ -1,0 +1,33 @@
+StartChar: uni0443
+Encoding: 1091 1091 370
+GlifName: uni0443
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -272 120<192 374.125> 1004 20G<140 300.5 722 885>
+VStem: 140 131<895.642 1024>
+AnchorPoint: "top" 512 1024 basechar 0
+LayerCount: 5
+Back
+Fore
+SplineSet
+541 240 m 1
+ 625 498 690 757 754 1024 c 1
+ 885 1024 l 1
+ 805 698 743 431 612 55 c 0
+ 576 -48 543 -143 482 -193 c 0
+ 427 -239 346 -272 192 -272 c 1
+ 192 -152 l 1
+ 274 -152 353 -138 388 -111 c 0
+ 436 -75 456 -12 505 128 c 1
+ 453 128 l 1
+ 296 413 209 720 140 1024 c 1
+ 271 1024 l 1
+ 330 754 406 486 531 240 c 1
+ 541 240 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

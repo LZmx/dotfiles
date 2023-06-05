@@ -1,0 +1,40 @@
+StartChar: AE
+Encoding: 198 198 105
+GlifName: A_E_
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 120<704 960> 388 120<198 576> 644 120<704 960> 1288 120<355.921 576 704 960>
+VStem: 39 128<0 367.797> 576 384<0 120 644 764> 576 128<120 388 508 644 764 1288>
+LayerCount: 5
+Back
+Fore
+SplineSet
+576 388 m 1xfa
+ 184 388 l 1
+ 175 276 167 155 167 0 c 1
+ 39 0 l 1
+ 39 496 123 971 293 1408 c 1
+ 960 1408 l 1
+ 960 1288 l 1xfc
+ 704 1288 l 1
+ 704 764 l 1xfa
+ 960 764 l 1
+ 960 644 l 1xfc
+ 704 644 l 1
+ 704 120 l 1xfa
+ 960 120 l 1
+ 960 0 l 1
+ 576 0 l 1xfc
+ 576 388 l 1xfa
+576 508 m 1xfa
+ 576 1288 l 1
+ 367 1288 l 1
+ 287 1049 233 800 198 508 c 1
+ 576 508 l 1xfa
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

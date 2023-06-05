@@ -1,0 +1,18 @@
+StartChar: uni0122
+Encoding: 290 290 271
+GlifName: uni0122
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -403 120<515 611.793> -16 120<473.762 892.627> 648 120<640 896> 1304 120<485.768 969.539>
+VStem: 112 128<375.367 1032.68> 643 128<-253.637 -131> 896 128<122.662 648>
+LayerCount: 5
+Back
+Fore
+Refer: 306 806 N 1 0 0 1 131 -3 2
+Refer: 35 71 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

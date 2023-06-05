@@ -1,0 +1,19 @@
+StartChar: Udieresis
+Encoding: 220 220 127
+GlifName: U_dieresis
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<426.462 725.475> 1388 20G<128 256 896 1024> 1552 224<269.423 434.577 717.423 882.577>
+VStem: 128 128<277.329 1408> 240 224<1581.42 1746.58> 688 224<1581.42 1746.58> 896 128<277.329 1408>
+LayerCount: 5
+Back
+Fore
+Refer: 300 776 N 1 0 0 1 0 256 2
+Refer: 48 85 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "'ss14' Style Set 14 lookup 115 subtable" Udieresis.sq
+EndChar

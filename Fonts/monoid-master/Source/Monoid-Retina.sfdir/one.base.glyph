@@ -1,0 +1,32 @@
+StartChar: one.base
+Encoding: 1114147 -1 649
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 120<128 448 576 896> 1388 20G<440.517 576>
+VStem: 448 128<120 1246>
+LayerCount: 5
+Back
+Fore
+SplineSet
+468 1408 m 1
+ 576 1408 l 1
+ 576 120 l 1
+ 896 120 l 1
+ 896 0 l 1
+ 576 0 l 1
+ 448 0 l 1
+ 128 0 l 1
+ 128 120 l 1
+ 448 120 l 1
+ 448 1246 l 1
+ 438 1246 l 1
+ 127 1022 l 1
+ 64 1114 l 1
+ 468 1408 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

@@ -1,0 +1,19 @@
+StartChar: iotadieresistonos
+Encoding: 912 912 557
+GlifName: iotadieresistonos
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<613.032 830.258> 1004 20G<448 576> 1136 224<145.423 310.577 713.423 878.577>
+VStem: 116 224<1165.42 1330.58> 448 128<141.858 1024> 684 224<1165.42 1330.58>
+CounterMasks: 1 1c
+LayerCount: 5
+Back
+Fore
+Refer: 556 901 N 1 0 0 1 0 0 2
+Refer: 512 953 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

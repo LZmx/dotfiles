@@ -1,0 +1,25 @@
+StartChar: ligadoubleslash
+Encoding: 1114161 -1 666
+Width: 1024
+VWidth: 0
+Flags: W
+LayerCount: 5
+Back
+Fore
+SplineSet
+-850 -155 m 1
+ -963 -102 l 1
+ -174 1563 l 1
+ -61 1510 l 1
+ -850 -155 l 1
+-82 -155 m 1
+ -195 -102 l 1
+ 594 1563 l 1
+ 707 1510 l 1
+ -82 -155 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

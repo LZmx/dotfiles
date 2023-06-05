@@ -1,0 +1,43 @@
+StartChar: four
+Encoding: 52 52 74
+GlifName: four
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 21G<704 832> 384 120<282 704 832 960>
+VStem: 704 128<0 384 504 896>
+LayerCount: 5
+Back
+Fore
+SplineSet
+832 0 m 5
+ 704 0 l 5
+ 704 384 l 5
+ 128 384 l 5
+ 128 484 l 5
+ 617 1436 l 5
+ 726 1380 l 5
+ 282 514 l 5
+ 282 504 l 5
+ 704 504 l 5
+ 704 896 l 5
+ 832 896 l 5
+ 832 504 l 5
+ 960 504 l 5
+ 960 384 l 5
+ 832 384 l 5
+ 832 0 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+1024 448 m 29
+ 174 448 l 29
+ 384 1408 l 1053
+832 0 m 29
+ 832 1408 l 1053
+EndSplineSet
+Layer: 3
+Layer: 4
+Substitution2: "'ss12' Style Set 12 lookup 11 subtable" four.triangle
+EndChar

@@ -1,0 +1,45 @@
+StartChar: h
+Encoding: 104 104 8
+GlifName: h
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 0 21G<192 320 704 832> 920 120<424.173 624.755> 1388 20G<192 320>
+VStem: 192 128<0 843.099 912 1408> 704 128<0 841.255>
+LayerCount: 5
+Back
+Fore
+SplineSet
+532 1040 m 0
+ 632 1040 713 995 763 933 c 0
+ 832 847 832 751 832 657 c 2
+ 832 0 l 1
+ 704 0 l 1
+ 704 657 l 2
+ 704 744 704 806 659 858 c 0
+ 627 895 576 920 512 920 c 0
+ 448 920 397 895 365 858 c 0
+ 320 806 320 744 320 657 c 2
+ 320 0 l 1
+ 192 0 l 1
+ 192 1408 l 1
+ 320 1408 l 1
+ 320 912 l 1
+ 330 912 l 1
+ 379 989 456 1040 532 1040 c 0
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Position2: "Single Positioning lookup 23 subtable" dx=-128 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 22 subtable" dx=-64 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 21 subtable" dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 14 subtable" dx=-64 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 11 subtable" dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 9 subtable" dx=-128 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 7 subtable" dx=128 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 6 subtable" dx=64 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 5 subtable" dx=0 dy=0 dh=0 dv=0
+Position2: "Single Positioning lookup 2 subtable" dx=128 dy=0 dh=0 dv=0
+EndChar

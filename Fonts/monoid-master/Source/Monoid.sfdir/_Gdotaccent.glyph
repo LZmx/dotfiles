@@ -1,0 +1,19 @@
+StartChar: Gdotaccent
+Encoding: 288 288 195
+GlifName: G_dotaccent
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<473.762 892.627> 648 120<640 896> 1304 120<485.768 969.539> 1584 224<557.423 722.577>
+VStem: 112 128<375.367 1032.68> 528 224<1613.42 1778.58> 896 128<122.662 648>
+LayerCount: 5
+Back
+Fore
+Refer: 299 775 N 1 0 0 1 64 256 2
+Refer: 35 71 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "'ss14' Style Set 14 lookup 115 subtable" Gdotaccent.sq
+EndChar

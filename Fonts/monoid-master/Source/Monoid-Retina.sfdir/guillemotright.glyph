@@ -1,0 +1,40 @@
+StartChar: guillemotright
+Encoding: 187 187 312
+GlifName: guillemotright
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 1019 20G<224.412 269.965 608.412 653.965>
+LayerCount: 5
+Back
+Fore
+SplineSet
+835 581 m 1
+ 535 971 l 1
+ 639 1039 l 1
+ 960 610 l 1
+ 960 542 l 1
+ 639 113 l 1
+ 535 181 l 1
+ 835 571 l 1
+ 835 581 l 1
+451 581 m 1
+ 151 971 l 1
+ 255 1039 l 1
+ 576 610 l 1
+ 576 542 l 1
+ 255 113 l 1
+ 151 181 l 1
+ 451 571 l 1
+ 451 581 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+SplineSet
+520 147 m 5
+ 841 576 l 5
+ 520 1005 l 1029
+EndSplineSet
+Layer: 3
+Layer: 4
+EndChar

@@ -1,0 +1,24 @@
+StartChar: uni0329
+Encoding: 809 809 525
+GlifName: uni0329
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -384 256<448 576>
+VStem: 448 128<-384 -128>
+AnchorPoint: "bottom" 512 0 mark 0
+LayerCount: 5
+Back
+Fore
+SplineSet
+448 -128 m 1
+ 576 -128 l 1
+ 576 -384 l 1
+ 448 -384 l 1
+ 448 -128 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

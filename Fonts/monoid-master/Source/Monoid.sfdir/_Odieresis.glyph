@@ -1,0 +1,19 @@
+StartChar: Odieresis
+Encoding: 214 214 121
+GlifName: O_dieresis
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: -16 120<438.425 713.575> 1304 120<438.425 713.575> 1552 224<269.423 434.577 717.423 882.577>
+VStem: 112 128<354.842 1053.16> 240 224<1581.42 1746.58> 688 224<1581.42 1746.58> 912 128<354.842 1053.16>
+LayerCount: 5
+Back
+Fore
+Refer: 300 776 N 1 0 0 1 0 256 2
+Refer: 42 79 N 1 0 0 1 0 0 3
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+Substitution2: "'ss14' Style Set 14 lookup 115 subtable" Odieresis.sq
+EndChar

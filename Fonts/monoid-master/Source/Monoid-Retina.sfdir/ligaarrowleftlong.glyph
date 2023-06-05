@@ -1,0 +1,28 @@
+StartChar: ligaarrowleftlong
+Encoding: 1114126 -1 627
+GlifName: ligaarrowleftlong
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 516 120<-1536 704>
+LayerCount: 5
+Back
+Fore
+SplineSet
+-1536 516 m 5
+ -1084 95 l 5
+ -1170 5 l 5
+ -1728 531 l 5
+ -1728 621 l 5
+ -1170 1147 l 5
+ -1084 1057 l 5
+ -1536 636 l 5
+ 704 636 l 1
+ 704 516 l 1
+ -1536 516 l 5
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

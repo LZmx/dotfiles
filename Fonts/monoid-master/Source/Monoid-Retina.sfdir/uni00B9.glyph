@@ -1,0 +1,26 @@
+StartChar: uni00B9
+Encoding: 185 185 509
+GlifName: uni00B_9
+Width: 1024
+VWidth: 0
+Flags: W
+VStem: 448 128<768 1378>
+LayerCount: 5
+Back
+Fore
+SplineSet
+468 1536 m 1
+ 576 1536 l 1
+ 576 768 l 1
+ 448 768 l 1
+ 448 1378 l 1
+ 438 1378 l 1
+ 192 1246 l 1
+ 192 1380 l 1
+ 468 1536 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar

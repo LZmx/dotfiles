@@ -1,0 +1,39 @@
+StartChar: onequarter
+Encoding: 188 188 501
+GlifName: onequarter
+Width: 1024
+VWidth: 0
+Flags: W
+HStem: 128 120<579 832>
+VStem: 320 128<768 1378> 832 128<-128 128 248 640>
+LayerCount: 5
+Back
+Fore
+SplineSet
+340 1536 m 1
+ 448 1536 l 1
+ 448 768 l 1
+ 320 768 l 1
+ 320 1378 l 1
+ 310 1378 l 1
+ 64 1246 l 1
+ 64 1380 l 1
+ 340 1536 l 1
+960 -128 m 1
+ 832 -128 l 1
+ 832 128 l 1
+ 448 128 l 1
+ 448 200 l 1
+ 526 640 l 1
+ 647 640 l 1
+ 579 248 l 1
+ 832 248 l 1
+ 832 640 l 1
+ 960 640 l 1
+ 960 -128 l 1
+EndSplineSet
+Validated: 1
+Layer: 2
+Layer: 3
+Layer: 4
+EndChar
